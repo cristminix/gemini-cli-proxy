@@ -1,6 +1,6 @@
 {
     "name": "gemini-cli-proxy",
-    "version": "0.1.0-dev3",
+    "version": "0.1.0",
     "description": "Use Gemini CodeAssist (Gemini CLI) through the OpenAI/Anthropic API interface",
     "main": "dist/index.js",
     "type": "module",
